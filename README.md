@@ -9,7 +9,7 @@
 
 ---
 
-##  My Stack (somente logos)
+##  My Stack 
 
 <div align="left">
 

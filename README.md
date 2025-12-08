@@ -1,8 +1,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Oii,+meu+nome+é+Thais+Pacheco)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia+e+Aprendizado;Sempre+buscando+evolução+🚀">
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedora+Full+Stack;Focada+em+Qualidade+e+Evolução+Profissional;Tecnologia+como+Ferramenta+de+Resultados+🚀">
 </p>
+
+---
+
+## 📚 Sobre mim
+- 🎓 Formação em **Técnico em Informática**
+- 💻 Atuação em desenvolvimento **Front-end e Back-end**
+- 🛠 Experiência na criação e manutenção de sistemas web
+- 🔍 Foco em boas práticas, organização e eficiência no desenvolvimento
+- 📌 Interesse em ampliar conhecimentos em arquitetura, testes e performance
+
+---
 
 ## 📊 GitHub Stats
 
@@ -48,12 +59,4 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</div>
-
----
-
-## 🐍 Snake Animation
-
-<div align="center">
-  <img src="https://github.com/thais-pacheco/thais-pacheco/blob/output/github-contribution-grid-snake.svg"/>
 </div>

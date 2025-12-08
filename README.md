@@ -1,32 +1,32 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Oii,+meu+nome+é+Thais+Pacheco)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Thais+Pacheco)
 
 
-## 📚 Sobre mim
-- 🎓 Formação em **Técnico em Informática**
-- 💻 Atuação em desenvolvimento **Front-end e Back-end**
-- 🔍 Foco em boas práticas, organização e eficiência no desenvolvimento
-- 📌 Interesse em ampliar conhecimentos em arquitetura, testes e performance
+##  Sobre mim
+-  Formação em **Técnico em Informática**
+-  Atuação em desenvolvimento **Front-end e Back-end**
+-  Foco em boas práticas, organização e eficiência no desenvolvimento
+-  Interesse em ampliar conhecimentos em arquitetura, testes e performance
 
 ---
 
-## 🧩 My Stack
+##  My Stack (somente logos)
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 </div>
 
 ---
 
-## 📬 Contatos
+##  Contatos
 
 <div align="left">
 

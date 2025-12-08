@@ -4,20 +4,8 @@
 ## 📚 Sobre mim
 - 🎓 Formação em **Técnico em Informática**
 - 💻 Atuação em desenvolvimento **Front-end e Back-end**
-- 🛠 Experiência na criação e manutenção de sistemas web
 - 🔍 Foco em boas práticas, organização e eficiência no desenvolvimento
 - 📌 Interesse em ampliar conhecimentos em arquitetura, testes e performance
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thais-pacheco&show_icons=true&theme=radical"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais-pacheco&layout=compact&theme=radical"/>
-
-</div>
 
 ---
 
